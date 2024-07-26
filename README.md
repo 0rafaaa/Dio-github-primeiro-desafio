@@ -1,5 +1,4 @@
 # Dio github primeiro desafio
 
-## Repositorio criado para o desafio
+### Repositorio criado para o desafio do Git/github
 
-Desafio de projeto do Git/Github
